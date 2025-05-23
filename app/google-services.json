@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368564461984",
+    "project_id": "ben2-d5351",
+    "storage_bucket": "ben2-d5351.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368564461984:android:fe948f7a870902c1fa04c5",
+        "android_client_info": {
+          "package_name": "com.example.benproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7sVGeIOBw15yq7jWIaIfQ38MU1LNJV5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
